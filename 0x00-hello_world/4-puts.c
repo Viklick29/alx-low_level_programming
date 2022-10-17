@@ -4,9 +4,9 @@
  *
  *Return: by default returns zero if no errors otherwise returns non-zero value.
 */
-int main (void)
+int main(void)
 {
 puts("\"Programming is like buliding a multilingual puzzle");
-return(0)
+return (0);
 }
 
